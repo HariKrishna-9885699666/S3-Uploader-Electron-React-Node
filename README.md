@@ -47,3 +47,6 @@ FE database - Sequelizejs
 BE - Nodejs
 BE database - Postgre
 
+[![IMAGE ALT TEXT HERE](https://img001.prntscr.com/file/img001/zc2blSFbQqKjMbQx0htXIg.jpg)](https://www.youtube.com/watch?v=A-tIDlFq5wQ)
+
+
