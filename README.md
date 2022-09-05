@@ -1,5 +1,4 @@
-# S3-Uploader-Electron-React-Node
-S3 uploader developed in electron, react and nodejs
+# S3 uploader developed in electron, react and nodejs (Express JS)
 
 Upload files to Amazon s3 bucket
 
